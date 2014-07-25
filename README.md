@@ -10,7 +10,7 @@ REQUERIMIENTOS
 ==================
 - Gestor de base de datos que utiliza: PostgresSQL
 - Servidor web apache2
-- Navegador (recomendación utilizar navegador chrom)
+- Navegador (recomendación utilizar navegador chrome)
 - lenguaje: php
 
 INSTALACION
