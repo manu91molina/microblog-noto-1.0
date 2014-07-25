@@ -1,8 +1,0 @@
-<?php
-  session_start();
-  include "funciones/interfaz_fail.php";
-  validar_usuario();
-  cabeza();
-  cuerpo_fail();
-  pie();
-?>
