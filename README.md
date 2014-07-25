@@ -9,7 +9,7 @@ microblog-noto-1.0
 REQUERIMIENTOS
 ==================
 - Gestor de base de datos que utiliza: PostgresSQL
-- Servidor web apache2
+- Servidor web apache
 - Navegador (recomendación utilizar navegador chrome)
 - lenguaje: php
 
